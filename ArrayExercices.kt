@@ -1,7 +1,6 @@
-Created by Richard Ribeiro
-https://pl.kotl.in/2nPi3FRn2
+//https://pl.kotl.in/2nPi3FRn2
 
-1. Create a function to find the biggest number in a array of Int with any lenght. 
+//1. Create a function to find the biggest number in a array of Int with any lenght. 
 
 fun biggestNumber(array: Array<Int>): Int{
 	var biggest: Int
@@ -12,7 +11,7 @@ fun biggestNumber(array: Array<Int>): Int{
 	return biggest
 }
 
-2. Create a function to sort ascending or descending a array
+//2. Create a function to sort ascending or descending a array
 
 fun sortArrayAscending(array : Array<Int>): Array<Int> {
 	var swap: Int
